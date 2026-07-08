@@ -1,86 +1,164 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=MD.%20ASHIQUR%20RAHMAN&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<!-- ========================= HERO ========================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:041C1F,50:0F766E,100:14B8A6&text=MD.%20ASHIQUR%20RAHMAN&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Enthusiast&descSize=22&descColor=E2FDFC&descAlignY=64" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=14B8A6&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Next.js+%7C+React+%7C+Node.js;Always+Learning+Something+New" />
+
+<br><br>
+
+<a href="https://komarev.com/ghpvc/?username=ashiqurrhmn">
+<img src="https://komarev.com/ghpvc/?username=ashiqurrhmn&style=for-the-badge&color=14B8A6"/>
+</a>
+
+<a href="https://github.com/ashiqurrhmn?tab=followers">
+<img src="https://img.shields.io/github/followers/ashiqurrhmn?style=for-the-badge&logo=github&color=14B8A6"/>
+</a>
+
+<a href="https://github.com/ashiqurrhmn">
+<img src="https://img.shields.io/github/stars/ashiqurrhmn?affiliations=OWNER&style=for-the-badge&logo=github&color=14B8A6"/>
+</a>
+
+<br><br>
+
+<img width="4950" height="1238" alt="Black and White Bold Social Media Manager New LinkedIn Banner" src="https://github.com/user-attachments/assets/677189cc-6f68-4aff-88d5-af236b166dac" />
+
+
+</div>
+
+---
+
+<!-- ================= ABOUT ================= -->
+
+<h2 align="center">About Me</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+```text
+MD. ASHIQUR RAHMAN
+──────────────────────────────────────────────
+
+Full Stack Developer passionate about building
+modern, scalable and user-centric web applications.
+
+Focused on creating production-ready products
+using Next.js, React, Node.js and MongoDB while
+continuously exploring Artificial Intelligence.
+
+Currently open to internships, collaborations
+and exciting software projects.
+```
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ashiqurrhmn">
-    <img src="https://komarev.com/ghpvc/?username=ashiqurrhmn&label=Profile%20views&color=00FFFF&style=flat-square" alt="ashiqurrhmn's profile views" />
-  </a>
+
+<img src="https://img.shields.io/badge/Location-Bangladesh-14B8A6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Experience-Full%20Stack-14B8A6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-14B8A6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Learning-AI%20%26%20System%20Design-14B8A6?style=flat-square"/>
+
 </p>
 
+</div>
 
-<img width="11811" height="5906" alt="Ashiqur rahman" src="https://github.com/user-attachments/assets/3549f0b7-e84b-435d-8ff6-581503291a1d" />
+---
+<!-- ========================= WHAT I DO ========================= -->
 
+<h2 align="center">What I Do</h2>
 
+<div align="center">
 
-## 📌 About Me
-- 🌱 I'm currently learning Full Stack Web Development and AI
-- 👯 I'm looking to collaborate on open-source and real-world projects
-- 💬 Ask me about JavaScript, React, Next.js, and basic AI concepts
-- 📫 How to reach me: ashiqur1312@gmail.com or https://www.linkedin.com/in/ashiqur-rahman00
-- ⚡ Fun fact: I enjoy turning ideas into real projects
+| **Full Stack Development** | **Backend Engineering** |
+|:--------------------------:|:-----------------------:|
+| Build responsive and scalable web applications with modern UI/UX. | Design secure REST APIs, authentication systems, and database architectures. |
 
+| **AI Integration** | **Problem Solving** |
+|:------------------:|:-------------------:|
+| Integrate AI services like OpenAI and Google AI into real-world applications. | Strengthen logical thinking through Data Structures & Algorithms and competitive programming. |
 
-## 🧠 My Focus Areas
-- Web Development (Frontend & Backend)
-- AI/ML Research
-- Open Source Contribution
-- Data Structures & Algorithms
-- Software Development Projects
+</div>
 
+<br>
 
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/ashiqurrhmn">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashiqurrhmn&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="ashiqurrhmn's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ashiqurrhmn&theme=onedark&hide_border=true&cache_seconds=86400" alt="ashiqurrhmn's GitHub Streak" width="49%" />
+
+<img src="https://img.shields.io/badge/Frontend-Next.js-14B8A6?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Backend-Node.js-14B8A6?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-14B8A6?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-OpenAI-14B8A6?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
+
+---
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,html,css,tailwind,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,npm" />
+
+</div>
+
+---
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashiqurrhmn&show_icons=true&theme=onedark&hide_border=true" />
+
+</p>
+
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=ashiqurrhmn" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ashiqurrhmn&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="MD. ASHIQUR RAHMAN's GitHub Trophies" />
 </p>
+
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqurrhmn&theme=onedark&radius=10" alt="ashiqurrhmn's Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashiqurrhmn&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=14B8A6&hide_border=true&radius=12" />
 </p>
 
+---
+<!-- ========================= CONNECT ========================= -->
 
-## 🛠️ Languages & Tools
+<h2 align="center">Let's Connect</h2>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=ashiqurrhmn)
-<br/>
-
-## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiqur-rahman00">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -97,20 +175,17 @@
   <a href="mailto:ashiqur1312@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://ashiqur-rahman-portfolio00.netlify.app/">
+  <a href="https://ashiqur-portfolio0.vercel.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
 
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
