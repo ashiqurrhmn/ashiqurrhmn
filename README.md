@@ -1,6 +1,7 @@
 <!-- ========================= HERO ========================= -->
 
 <div align="center">
+<img width="4950" height="1238" alt="Black and White Bold Social Media Manager New LinkedIn Banner" src="https://github.com/user-attachments/assets/677189cc-6f68-4aff-88d5-af236b166dac" />
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:041C1F,50:0F766E,100:14B8A6&text=MD.%20ASHIQUR%20RAHMAN&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20Enthusiast&descSize=22&descColor=E2FDFC&descAlignY=64" width="100%" />
 
@@ -24,7 +25,7 @@
 
 <br><br>
 
-<img width="4950" height="1238" alt="Black and White Bold Social Media Manager New LinkedIn Banner" src="https://github.com/user-attachments/assets/677189cc-6f68-4aff-88d5-af236b166dac" />
+
 
 
 </div>
